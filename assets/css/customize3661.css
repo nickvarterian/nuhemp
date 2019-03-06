@@ -1,0 +1,33 @@
+.social-icons .-icon i {
+  top: 58%;
+  font-size: 22px;
+}
+
+.bottom-social {
+  visibility: hidden;
+}
+
+#site-loading .doubleLoaderProgBar span {
+  background-color: #8dad2e;
+  height: 15px;
+}
+
+body main .wrap-top .text-wrap .brand {
+  margin-top: 25px !important;
+}
+
+@media (max-width: 415px) {
+  .logo {
+    width: 85%;
+  }
+
+  .wrap-bottom {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+
+  .text {
+    margin-top: 25%;
+  }
+}
