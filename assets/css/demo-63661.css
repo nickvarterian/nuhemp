@@ -27,7 +27,7 @@ body {
 body .-bg-image {
   -webkit-transition: opacity 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
   transition: opacity 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
-  background: transparent url(../images/demo6/bg.jpg) no-repeat center center;
+  background: transparent url(../images/bg.jpg) no-repeat center center;
   background-size: cover;
 }
 
